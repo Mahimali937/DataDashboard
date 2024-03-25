@@ -34,7 +34,7 @@ const App = () => {
             params: {
               lat: location.lat,
               lon: location.lon,
-              key: 'cc000e3d92964cffb04255f751fc1a69',
+              key: '0b47a96e0245412ca8461b96990df829',
             },
           })
         )
